@@ -17,7 +17,7 @@
  */
 
 /* File Authors:
- *   Erik Osterman <eosterman@interactivepath.com>
+ *   Erik Osterman <e@osterman.com>
  */
 
 
